@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://cultivate_ready_only:thepottingshed@bitbucket.org/cultivate/gravityforms.git
+	fetch = +refs/*:refs/*
+	mirror = true
